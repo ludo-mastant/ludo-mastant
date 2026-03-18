@@ -1,5 +1,3 @@
-<h1 align="center">Frank 👋</h1>
-
 <p align="center">
   Étudiant en BTS SIO SLAM • Développement web & mobile • Passionné par l’informatique
 </p>
