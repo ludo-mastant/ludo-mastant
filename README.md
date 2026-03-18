@@ -12,7 +12,7 @@ J’aime concevoir des applications, travailler sur des bases de données, amél
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
