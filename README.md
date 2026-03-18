@@ -8,7 +8,7 @@
 
 Je suis étudiant en **BTS SIO option SLAM 2éme année**, passionné par le développement, la création de projets web et mobiles, ainsi que par l’apprentissage de nouvelles technologies.
 
-J’aime concevoir des applications, travailler sur des bases de données, améliorer l’interface utilisateur et développer des projets propres, modernes et efficaces. Et je recherche activement une alternance pour ma 3éme année en licence pour finaliser mes études
+J’aime concevoir des applications, travailler sur des bases de données, améliorer l’interface utilisateur et développer des projets propres. Et je recherche activement une alternance pour ma 3éme année en licence pour finaliser mes études
 
 ---
 
